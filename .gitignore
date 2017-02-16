@@ -1,0 +1,5 @@
+__pyc__
+/ascii_ve
+/asciiart/__pycache
+*.pyc
+.idea/
